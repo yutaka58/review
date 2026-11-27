@@ -1,0 +1,10 @@
+.header-grid {
+    height: 50px;
+    width: 100%;
+}
+
+.header-title {
+    background-color: black;
+    margin: auto 0;
+    padding: 10px 30px;
+}
